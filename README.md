@@ -55,11 +55,6 @@ Note that you'll need to:
 - Set up [Vercel Blob](https://vercel.com/docs/storage/vercel-blob/quickstart)
 - Set up [Vercel KV](https://vercel.com/docs/storage/vercel-kv/quickstart)
 
-## Authors
-
-- Alexandru Ţurcanu ([@pondorasti](https://x.com/pondorasti))
-- Dylan Player ([@dylanplayer](https://twitter.com/dylanplayer))
-
 ## Credits
 
 
