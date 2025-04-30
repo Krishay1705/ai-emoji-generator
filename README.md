@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://www.instagram.com/_.simply.krishay._/">
-    <img src="https://img.shields.io/instagram/follow/krishay?style=flat&logo=x&color=0bf&logoColor=fff"  />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fnewsbeat-36257455&psig=AOvVaw3RZV4oZUJZQIi8ANv2SOKb&ust=1746102781468000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiWmvDh_4wDFQAAAAAdAAAAABAE " />
   </a>
 
   <a href="techyconnect675@gmail.com">
-    <img src="https://img.shields.io/gmail/stars/techy/emojis?label=techy%2Femojis" alt="techy/emojis repo star count" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fnewsbeat-36257455&psig=AOvVaw3RZV4oZUJZQIi8ANv2SOKb&ust=1746102781468000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiWmvDh_4wDFQAAAAAdAAAAABAE " />
   </a>
 </p>
 
