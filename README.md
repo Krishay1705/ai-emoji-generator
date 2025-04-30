@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/pondorasti">
-    <img src="https://img.shields.io/twitter/follow/pondorasti?style=flat&logo=x&color=0bf&logoColor=fff" alt="Alexandru Ţurcanu's X follower count" />
+  <a href="https://www.instagram.com/_.simply.krishay._/">
+    <img src="https://img.shields.io/instagram/follow/krishay?style=flat&logo=x&color=0bf&logoColor=fff"  />
   </a>
 
-  <a href="https://github.com/pondorasti/emojis">
-    <img src="https://img.shields.io/github/stars/pondorasti/emojis?label=pondorasti%2Femojis" alt="pondorasti/emojis repo star count" />
+  <a href="techyconnect675@gmail.com">
+    <img src="https://img.shields.io/gmail/stars/techy/emojis?label=techy%2Femojis" alt="techy/emojis repo star count" />
   </a>
 </p>
 
