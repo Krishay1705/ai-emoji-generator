@@ -5,17 +5,6 @@
 <p align="center">
   Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 </p>
-
-<p align="center">
-  <a href="https://www.instagram.com/_.simply.krishay._/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fnewsbeat-36257455&psig=AOvVaw3RZV4oZUJZQIi8ANv2SOKb&ust=1746102781468000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiWmvDh_4wDFQAAAAAdAAAAABAE " />
-  </a>
-
-  <a href="techyconnect675@gmail.com">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fnewsbeat-36257455&psig=AOvVaw3RZV4oZUJZQIi8ANv2SOKb&ust=1746102781468000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiWmvDh_4wDFQAAAAAdAAAAABAE " />
-  </a>
-</p>
-
 <p align="center">
   <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
   <a href="#tech-stack"><strong>Deploy Your Own</strong></a> ·
